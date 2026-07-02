@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Prashant Shinde
+### Hi there 👋 I'm Prashant Sanjay Shinde
 
 📊 **Senior Data Scientist** with 8+ years building production ML and causal experimentation systems across marketing, customer, and workforce domains. I partner with marketing, product, and people teams to ship ranking, forecasting, segmentation, and large-scale A/B testing that measurably lift retention, revenue, and operational efficiency.
 
@@ -9,13 +9,6 @@
 - Causal inference & experimentation — Bayesian Structural Time Series (BSTS) and large-scale A/B testing
 - Customer & revenue modeling — churn, CLV, segmentation, and price-elasticity models
 - Forecasting & ranking systems — demand/traffic forecasting and production ML with end-to-end MLOps
-
-**Selected impact**
-- Generated ~$6M in margin savings via price-elasticity and promotional-response modeling
-- Drove a 21% reduction in new-hire attrition with a production ML candidate-ranking system
-
-**Tech stack**
-`Python` · `R` · `SQL` · `Spark` · `PyTorch` · `TensorFlow` · `scikit-learn` · `Snowflake` · `AWS` · `Azure` · `Docker` · `LLMs / GenAI`
 
 **Featured projects**
 - [causal-impact-analysis](https://github.com/GreenMouth/causal-impact-analysis) — causal inference on time-series interventions with BSTS
