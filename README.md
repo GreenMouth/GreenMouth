@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Prashant Shinde
 
-<!--
-**GreenMouth/GreenMouth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data scientist working at the intersection of **marketing analytics and machine learning**, based in Atlanta, GA.
+🚁 **FAA Part 107 certified** remote pilot — off the clock, I fly drones and edit aerial reels. See my work at [shindemedia.com](https://shindemedia.com).
 
-Here are some ideas to get you started:
+**What I work on**
+- Marketing channel attribution (Markov chains, heuristic models)
+- Causal inference & time-series intervention analysis (Bayesian Structural Time Series)
+- Customer lifetime value and click-prediction modeling
+- Deep learning, computer vision, and NLP experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**A few projects**
+- [CausalImpact_Google](https://github.com/GreenMouth/CausalImpact_Google) — BSTS for intervention analysis
+- [Markov_Chain_Model](https://github.com/GreenMouth/Markov_Chain_Model) — marketing channel attribution
+- [CLTV_Modeling](https://github.com/GreenMouth/CLTV_Modeling) — customer lifetime value
+
+**Reach me**
+- 🌐 [shindemedia.com](https://shindemedia.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shindetm/)
+- 📫 shinde.data@gmail.com
