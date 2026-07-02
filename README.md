@@ -18,3 +18,5 @@
 - 🌐 [shindemedia.com](https://shindemedia.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shindetm/)
 - 📫 shinde.data@gmail.com
+- https://www.youtube.com/@ShindeDMT/shorts
+
