@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Prashant Sanjay Shinde
 
-📊 **Senior Data Scientist** with 8+ years building production ML and causal experimentation systems across marketing, customer, and workforce domains. I partner with marketing, product, and people teams to ship ranking, forecasting, segmentation, and large-scale A/B testing that measurably lift retention, revenue, and operational efficiency.
+📊 **Senior Data Scientist** with 8+ years building production ML and causal experimentation systems across marketing, customer, and workforce domains.
 
 🚁 FAA Part 107 certified remote pilot — off the clock, I fly drones and edit aerial reels. See my work at [shindemedia.com](https://shindemedia.com).
 
