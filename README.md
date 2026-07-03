@@ -10,11 +10,6 @@
 - Customer & revenue modeling — churn, CLV, segmentation, and price-elasticity models
 - Forecasting & ranking systems — demand/traffic forecasting and production ML with end-to-end MLOps
 
-**Featured projects**
-- [causal-impact-analysis](https://github.com/GreenMouth/causal-impact-analysis) — causal inference on time-series interventions with BSTS
-- [markov-channel-attribution](https://github.com/GreenMouth/markov-channel-attribution) — multi-touch marketing channel attribution
-- [customer-lifetime-value](https://github.com/GreenMouth/customer-lifetime-value) — predicting CLV to inform retention and marketing spend
-
 **Reach me**
 - 🌐 [shindemedia.com](https://shindemedia.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/shindetm/)
